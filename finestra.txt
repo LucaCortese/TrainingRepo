@@ -1,6 +1,5 @@
 <ul>
-<li>Finestra</li>
+<li>sdcdfgrhthersd</li>
 <li>Finestra 2222</li>
-<li>Finestra 3</li>
 <li>Finestra 4</li>
 </ul>
